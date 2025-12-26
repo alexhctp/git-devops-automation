@@ -10,4 +10,4 @@ Seja vem vindo a esse repositório. Não repare a bagunça, esse projeto é apen
 
 ### Objetivos do projeto
 
-Apresentar o basico para sobreviver
+Apresentar o basico para sobreviver. Considere por basico, comandos git.
